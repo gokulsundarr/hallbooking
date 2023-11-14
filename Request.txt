@@ -1,0 +1,12 @@
+{
+    "noOfRoom": 2,
+    "amenities": [
+        "park"
+    ],
+    "priceFor1Hrs": 50,
+     "roomName" : "Room1",
+     "customerName":"Gunal",
+     "bookingDate" : "12/12/2013",
+     "startTime":"12:12",
+     "endTime":"04:12"
+}

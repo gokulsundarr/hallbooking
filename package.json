@@ -1,0 +1,34 @@
+{
+
+  "name": "demo",
+
+  "version": "1.0.0",
+
+  "description": "",
+
+  "main": "hallBooking.js",
+
+  "scripts": {
+
+    "start": "node hallBooking.js",
+
+    "dev": "nodemon hallBooking.js"
+
+  },
+
+  "dependencies": {
+
+    "express": "^4.18.2",
+
+    "nodemon": "^3.0.1"
+
+  },
+
+  "devDependencies": {
+
+    "typescript": "^5.2.2"
+
+  }
+
+}
+
